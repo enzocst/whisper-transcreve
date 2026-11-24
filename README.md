@@ -43,12 +43,6 @@ Informe o caminho do arquivo de áudio no formato MP3 ou WAV.
 
 ## Exemplo de uso
 
-Ao executar o programa, informe o arquivo `teste.mp3`.
+Ao executar o programa, informe o arquivo `teste-ia-pt-br.mp3`.
 
 O programa realizará a transcrição do áudio e apresentará no terminal o texto transcrito, um resumo e os principais pontos-chave.
-
-## Referências
-
-- https://github.com/openai/whisper
-- https://ollama.com
-- https://github.com/tmedeirosb/tsi-llm
